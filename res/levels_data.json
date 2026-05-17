@@ -1,0 +1,40 @@
+{
+  "levels": [
+    {
+      "levelId": 1,
+      "inputSize": 10,
+      "arraySize": 4,
+      "goal": "Find the sum",
+      "availableCommands": [
+        "add",
+        "jump",
+        "inbox"
+      ]
+    },
+    {
+      "levelId": 2,
+      "input": [10, 15, 20],
+      "goal": "Find the maximum"
+    },
+    {
+      "levelId": 3,
+      "input": [7, 14, 21, 28],
+      "goal": "Check if all are divisible by 7"
+    },
+    {
+      "levelId": 4,
+      "input": [2, 4, 8, 16],
+      "goal": "Check if numbers form geometric progression"
+    },
+    {
+      "levelId": 5,
+      "input": [42, 13, 7, 99],
+      "goal": "Sort ascending"
+    },
+    {
+      "levelId": 6,
+      "input": [5, 25, 125],
+      "goal": "Check if numbers are powers of 5"
+    }
+  ]
+}
